@@ -34,7 +34,5 @@ Visualization: Matplotlib, Seaborn, Plotly
 📈 My Interests:
 - Healthcare Machine Learning: Using ML for predictive modeling and medical image classification.
 - Data Science for Social Good: Applying data science techniques to drive social change, especially in underrepresented communities.
-#
-  ✨ Fun Fact
-I advocate for making **technology** and **education** more **accessible** to young girls & people.
+
 
